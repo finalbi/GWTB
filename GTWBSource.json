@@ -1,0 +1,34 @@
+{
+  "name": "GWTB Source",
+  "subtitle": "the Source for Games with the besties",
+  "description": "Here you can download games with the besties",
+  "iconURL": "",
+  "headerURL": "",
+  "tintColor": "#ffff00",
+  "featuredApps": [
+    "com.SanctumStudios.GWTB"
+  ],
+  "apps": [
+    {
+      "name": "Games With The Bestis",
+      "bundleIdentifier": "com.SanctumStudios.GWTB",
+      "developerName": "SanctumStudios",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "Collection of games for the besties to be played with the besties",
+      "iconURL": "https://raw.githubusercontent.com/finalbi/GWTB/main/Images/yellowkitchen.jpg?token=GHSAT0AAAAAACOLGLX6YOYOESQ7IYX2A2FKZORMVTA",
+      "tintColor": "#ffff00",
+      "category": "games",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "date": "2024-02-16",
+          "localizedDescription": "YAY REALEASE",
+          "downloadURL": "https://github.com/finalbi/GWTB/raw/main/IpaFiles/GTWB.ipa",
+          "size": 79821,
+          "minOSVersion": "12.0",
+          "maxOSVersion": "17.3.1"
+        }
+      ]
+    }
+  ]
+}
