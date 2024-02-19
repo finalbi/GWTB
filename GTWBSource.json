@@ -15,15 +15,29 @@
       "developerName": "SanctumStudios",
       "subtitle": "An awesome app.",
       "localizedDescription": "Collection of games for the besties to be played with the besties",
-      "iconURL": "https://raw.githubusercontent.com/finalbi/GWTB/main/Images/yellowkitchen.jpg?token=GHSAT0AAAAAACOLGLX6YOYOESQ7IYX2A2FKZORMVTA",
+      "iconURL": "https://raw.githubusercontent.com/finalbi/GWTB/main/Images/yellowkitchen.jpg",
       "tintColor": "#ffff00",
       "category": "games",
       "versions": [
         {
-          "version": "1.0.0",
+          "version": "1.0",
           "date": "2024-02-16",
           "localizedDescription": "YAY REALEASE",
           "downloadURL": "https://github.com/finalbi/GWTB/raw/main/IpaFiles/GTWB.ipa",
+          "size": 134800
+        },
+        {
+          "version": "2.0",
+          "date": "2024-02-17",
+          "localizedDescription": "YAY REALEASE 2",
+          "downloadURL": "https://github.com/finalbi/GWTB/raw/main/IpaFiles/GTWB2.0.ipa",
+          "size": 134800
+        },
+        {
+          "version": "3.0",
+          "date": "2024-02-19",
+          "localizedDescription": "YAY REALEASE 3 STICKERS",
+          "downloadURL": "https://github.com/finalbi/GWTB/raw/main/IpaFiles/GTWB3.0.ipa",
           "size": 134800
         }
       ]
