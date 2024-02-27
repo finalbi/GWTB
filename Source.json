@@ -1,1 +1,61 @@
-S
+{
+  "name": "GWTB Source",
+  "identifier": "com.SanctumStudios.gwtbsource",
+  "subtitle": "the Source for Games with the besties",
+  "description": "Here you can download games with the besties",
+  "iconURL": "https://raw.githubusercontent.com/finalbi/GWTB/main/Images/yellowkitchen.jpg",
+  "headerURL": "https://raw.githubusercontent.com/finalbi/GWTB/main/Images/yellowkitchen.jpg",
+  "tintColor": "#ffff00",
+  "featuredApps": [
+    "com.SanctumStudios.GWTB"
+  ],
+  "apps": [
+    {
+      "name": "Games With The Bestis",
+      "bundleIdentifier": "com.SanctumStudios.GWTB",
+      "developerName": "SanctumStudios",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "Collection of games for the besties to be played with the besties",
+      "iconURL": "https://raw.githubusercontent.com/finalbi/GWTB/main/Images/yellowkitchen.jpg",
+      "tintColor": "#ffff00",
+      "category": "games",
+      "versions": [
+        {
+          "version": "1.0",
+          "date": "2024-02-16",
+          "localizedDescription": "YAY REALEASE",
+          "downloadURL": "https://github.com/finalbi/GWTB/raw/main/IpaFiles/GTWB.ipa",
+          "size": 134800
+        },
+        {
+          "version": "2.0",
+          "date": "2024-02-17",
+          "localizedDescription": "YAY REALEASE 2",
+          "downloadURL": "https://download854.mediafire.com/21wpdillfzhgPb2_PQlJmryK6V-VATEYRJKke4oH9EorgIX9AlerxAkiVGMqwP-yzSFKJ_2100pWmUKgAqoIRW2brcSqkWO9fVRfL23R7IcTNc6racCYHjWm7WOwYbFaj-CTOH9NFNmLpGLFUNDo13xJwFqjuYNFVfwnWECt5S9Z/09f94uu8e9evpza/GWTB2.0.ipa",
+          "size": 134800
+        },
+        {
+          "version": "3.0",
+          "date": "2024-02-19",
+          "localizedDescription": "YAY REALEASE 3 STICKERS",
+          "downloadURL": "https://download1321.mediafire.com/1vaci2yvqnogD0ALkWCUOxaYhoJigjuAj7GuKqJnwgX4C4n-U2Us0aRGhKrgPsR4R3H7QbY2c1k24_yF4jllNFyFBSjvfVaObsIWFPdR-BF0Sh7tpiOMKgjzput4kmqeTBKzjV2nPsbSfPd4_iR2XRf1dYC3jN1ds3UYwIKazAGl/kpc1x6157d5dwpc/GWTB3.0.ipa",
+          "size": 134800
+        },
+                {
+          "version": "3.1",
+          "date": "2024-02-19",
+          "localizedDescription": "YAY REALEASE 3 FIXES",
+          "downloadURL": "https://download1503.mediafire.com/tdvorfromebg71swP0uSJ4ArdPW-tYGRfNlWSsFNNAsS_Hrlzq_ID7mSRwhzVIbMNi3R8DmTpPZGuGRBAUolWCwOY7PzCIIpxh1NR2fupyS6LzaruvV8pgrPecmgsy_Y_bFlxzf4nLLSAW2ixOGTtqIqnEiEve7ia3svm1_5Z2c/j55nf3ti3a5q6bj/GWTB3.1.ipa",
+          "size": 134800
+        },
+                {
+          "version": "3.2",
+          "date": "2024-02-19",
+          "localizedDescription": "YAY REALEASE 3 EVEN MORE FIXES",
+          "downloadURL": "https://download1592.mediafire.com/wqppp31pq5vgdE-AtjDV-X1GWwDC4Iwp7-oHVwmZ4cb0CDMZf9s7yxNGN_cWmLxZSIoGrE9hcBgh5grg1GXwnH9j-Ly3rKjoqwKe7ZVizVwH2d_6fwrOcupcCIlNrvaKFeiODL5nkKrbBcbYg9bfnmfdYBm2rGG77udh2wgsZHQ/ibfpofjso2tom9x/GWTB3.2.ipa",
+          "size": 134800
+        }
+      ]
+    }
+  ]
+}
