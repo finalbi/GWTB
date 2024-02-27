@@ -3,8 +3,8 @@
   "identifier": "com.SanctumStudios.gwtbsource",
   "subtitle": "the Source for Games with the besties",
   "description": "Here you can download games with the besties",
-  "iconURL": "",
-  "headerURL": "",
+  "iconURL": "https://raw.githubusercontent.com/finalbi/GWTB/main/Images/yellowkitchen.jpg",
+  "headerURL": "https://raw.githubusercontent.com/finalbi/GWTB/main/Images/yellowkitchen.jpg",
   "tintColor": "#ffff00",
   "featuredApps": [
     "com.SanctumStudios.GWTB"
